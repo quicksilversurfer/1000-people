@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>SVG</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://d3js.org/d3.v5.js"></script>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <!-- Intro -->
+    <div id="intro">
+      <h1>1000 People</h1>
+      <h2>A network graph of people in a community of practice, visualizing the connections between them.</h2>
+      <h3>Overview</h3>
+      <p>
+        To understand a community, knowing more about the notable people in that community is a great place to start. 1000 people is a small data visualization project where I wanted to visualize Wikipedia entries of people in a particular field.
+      </p>
+      <h3>Process</h3>
+      <p>
+        Data was collected from dbPedia and converted into a nodes links database. Each node represents a person, and the links are structured data entries about them. CSV data conversion to JSON node-link database was done through a Python script (thanks to <a href="https://www.linkedin.com/in/anulksinha/" target="_blank" rel="noopener noreferrer">Anul Kumar Sinha</a>!) which was then visualized by <a href="https://www.linkedin.com/in/prateek-solanki-78313218/" target="_blank" rel="noopener noreferrer">Prateek Solanki</a> in d3.js  
+      </p>
+
+    </div>
+    <!-- Create a div where the graph will take place -->
+    <div id="my_dataviz"></div>
+    <script src="app.js"></script>
+  </body>
+</html>

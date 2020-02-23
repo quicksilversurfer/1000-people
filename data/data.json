@@ -1,0 +1,6064 @@
+{
+  "nodes": [
+    {
+      "node_id": 0,
+      "value": "Jonathan Hoefler"
+    },
+    {
+      "node_id": 1,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 2,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 3,
+      "value": "Stefan Sagmeister"
+    },
+    {
+      "node_id": 4,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 5,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 6,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 7,
+      "value": "Paula Scher"
+    },
+    {
+      "node_id": 8,
+      "value": "Jan Tschichold"
+    },
+    {
+      "node_id": 9,
+      "value": "Michael Bierut"
+    },
+    {
+      "node_id": 10,
+      "value": "http://de.dbpedia.org/resource/Jan_Tschichold"
+    },
+    {
+      "node_id": 11,
+      "value": "http://pl.dbpedia.org/resource/Jan_Tschichold"
+    },
+    {
+      "node_id": 12,
+      "value": "http://nl.dbpedia.org/resource/Jan_Tschichold"
+    },
+    {
+      "node_id": 13,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 14,
+      "value": "http://ja.dbpedia.org/resource/\u30b9\u30c6\u30d5\u30a1\u30f3\u30fb\u30b5\u30b0\u30de\u30a4\u30b9\u30bf\u30fc"
+    },
+    {
+      "node_id": 15,
+      "value": "http://rdf.freebase.com/ns/m.07khcm"
+    },
+    {
+      "node_id": 16,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 17,
+      "value": "http://data.europa.eu/euodp/jrc-names/Stefan_Sagmeister"
+    },
+    {
+      "node_id": 18,
+      "value": "http://wikidata.dbpedia.org/resource/Q89568"
+    },
+    {
+      "node_id": 19,
+      "value": "http://de.dbpedia.org/resource/Stefan_Sagmeister"
+    },
+    {
+      "node_id": 20,
+      "value": "http://yago-knowledge.org/resource/Paula_Scher"
+    },
+    {
+      "node_id": 21,
+      "value": "http://nl.dbpedia.org/resource/Jonathan_Hoefler"
+    },
+    {
+      "node_id": 22,
+      "value": "http://rdf.freebase.com/ns/m.0fx_wm"
+    },
+    {
+      "node_id": 23,
+      "value": "http://viaf.org/viaf/92536323"
+    },
+    {
+      "node_id": 24,
+      "value": "http://yago-knowledge.org/resource/Jan_Tschichold"
+    },
+    {
+      "node_id": 25,
+      "value": "http://yago-knowledge.org/resource/Jonathan_Hoefler"
+    },
+    {
+      "node_id": 26,
+      "value": "http://wikidata.dbpedia.org/resource/Q455232"
+    },
+    {
+      "node_id": 27,
+      "value": "http://www.wikidata.org/entity/Q89568"
+    },
+    {
+      "node_id": 28,
+      "value": "http://fr.dbpedia.org/resource/Paula_Scher"
+    },
+    {
+      "node_id": 29,
+      "value": "http://www.wikidata.org/entity/Q3856114"
+    },
+    {
+      "node_id": 30,
+      "value": "http://ko.dbpedia.org/resource/\uc288\ud14c\ud310_\uc790\uadf8\ub9c8\uc774\uc2a4\ud130"
+    },
+    {
+      "node_id": 31,
+      "value": "http://it.dbpedia.org/resource/Jan_Tschichold"
+    },
+    {
+      "node_id": 32,
+      "value": "http://it.dbpedia.org/resource/Stefan_Sagmeister"
+    },
+    {
+      "node_id": 33,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 34,
+      "value": "http://it.dbpedia.org/resource/Michael_Bierut"
+    },
+    {
+      "node_id": 35,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 36,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 37,
+      "value": "http://yago-knowledge.org/resource/Stefan_Sagmeister"
+    },
+    {
+      "node_id": 38,
+      "value": "http://fr.dbpedia.org/resource/Stefan_Sagmeister"
+    },
+    {
+      "node_id": 39,
+      "value": "http://yago-knowledge.org/resource/The_New_Typography"
+    },
+    {
+      "node_id": 40,
+      "value": "http://rdf.freebase.com/ns/m.09zqzc"
+    },
+    {
+      "node_id": 41,
+      "value": "http://www.wikidata.org/entity/Q455232"
+    },
+    {
+      "node_id": 42,
+      "value": "http://cs.dbpedia.org/resource/Jan_Tschichold"
+    },
+    {
+      "node_id": 43,
+      "value": "http://rdf.freebase.com/ns/m.0lkt_"
+    },
+    {
+      "node_id": 44,
+      "value": "http://ko.dbpedia.org/resource/\uc580_\uce58\ud640\ud2b8"
+    },
+    {
+      "node_id": 45,
+      "value": "http://viaf.org/viaf/34468682"
+    },
+    {
+      "node_id": 46,
+      "value": "http://d-nb.info/gnd/121732568"
+    },
+    {
+      "node_id": 47,
+      "value": "http://wikidata.dbpedia.org/resource/Q3856114"
+    },
+    {
+      "node_id": 48,
+      "value": "http://viaf.org/viaf/15040640"
+    },
+    {
+      "node_id": 49,
+      "value": "http://www.wikidata.org/entity/Q2370478"
+    },
+    {
+      "node_id": 50,
+      "value": "http://pt.dbpedia.org/resource/Jan_Tschichold"
+    },
+    {
+      "node_id": 51,
+      "value": "http://yago-knowledge.org/resource/Die_neue_Typographie"
+    },
+    {
+      "node_id": 52,
+      "value": "http://fr.dbpedia.org/resource/Jan_Tschichold"
+    },
+    {
+      "node_id": 53,
+      "value": "http://rdf.freebase.com/ns/m.0ks2s1"
+    },
+    {
+      "node_id": 54,
+      "value": "http://fr.dbpedia.org/resource/Jonathan_Hoefler"
+    },
+    {
+      "node_id": 55,
+      "value": "http://d-nb.info/gnd/118624350"
+    },
+    {
+      "node_id": 56,
+      "value": "http://es.dbpedia.org/resource/Michael_Bierut"
+    },
+    {
+      "node_id": 57,
+      "value": "http://wikidata.dbpedia.org/resource/Q7154764"
+    },
+    {
+      "node_id": 58,
+      "value": "http://wikidata.dbpedia.org/resource/Q2370478"
+    },
+    {
+      "node_id": 59,
+      "value": "http://yago-knowledge.org/resource/Michael_Bierut"
+    },
+    {
+      "node_id": 60,
+      "value": "http://www.wikidata.org/entity/Q7154764"
+    },
+    {
+      "node_id": 61,
+      "value": "http://ja.dbpedia.org/resource/\u30dd\u30fc\u30e9\u30fb\u30b7\u30a7\u30a2"
+    },
+    {
+      "node_id": 62,
+      "value": "http://es.dbpedia.org/resource/Stefan_Sagmeister"
+    },
+    {
+      "node_id": 63,
+      "value": "http://es.dbpedia.org/resource/Jan_Tschichold"
+    },
+    {
+      "node_id": 64,
+      "value": "http://ja.dbpedia.org/resource/\u30e4\u30f3\u30fb\u30c1\u30d2\u30e7\u30eb\u30c8"
+    },
+    {
+      "node_id": 65,
+      "value": "Locarno"
+    },
+    {
+      "node_id": 66,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 67,
+      "value": "Educator"
+    },
+    {
+      "node_id": 68,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 69,
+      "value": "Painting"
+    },
+    {
+      "node_id": 70,
+      "value": "Film"
+    },
+    {
+      "node_id": 71,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 72,
+      "value": "Graphic_Design"
+    },
+    {
+      "node_id": 73,
+      "value": "Austrians"
+    },
+    {
+      "node_id": 74,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 75,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 76,
+      "value": "United_States"
+    },
+    {
+      "node_id": 77,
+      "value": "2519074"
+    },
+    {
+      "node_id": 78,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 79,
+      "value": "84839"
+    },
+    {
+      "node_id": 80,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 81,
+      "value": "6231500"
+    },
+    {
+      "node_id": 82,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 83,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 84,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 85,
+      "value": "7315947"
+    },
+    {
+      "node_id": 86,
+      "value": "3764125"
+    },
+    {
+      "node_id": 87,
+      "value": "1.99832"
+    },
+    {
+      "node_id": 88,
+      "value": "2.06273"
+    },
+    {
+      "node_id": 89,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 90,
+      "value": "0.829317"
+    },
+    {
+      "node_id": 91,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 92,
+      "value": "0.746084"
+    },
+    {
+      "node_id": 93,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 94,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 95,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 96,
+      "value": "3.89473"
+    },
+    {
+      "node_id": 97,
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan_Tschichold_(1963)_by_Erling_Mandelmann.jpg"
+    },
+    {
+      "node_id": 98,
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefan_Sagmeister_-_2008.jpg"
+    },
+    {
+      "node_id": 99,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 100,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 101,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 102,
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael_Bierut.jpg"
+    },
+    {
+      "node_id": 103,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 104,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 105,
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula_Scher.png"
+    },
+    {
+      "node_id": 106,
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Jonathan_Hoefler.jpg"
+    },
+    {
+      "node_id": 107,
+      "value": "1957-0-0"
+    },
+    {
+      "node_id": 108,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 109,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 110,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 111,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 112,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 113,
+      "value": "1948-10-06"
+    },
+    {
+      "node_id": 114,
+      "value": "1962-08-06"
+    },
+    {
+      "node_id": 115,
+      "value": "1970-8-22"
+    },
+    {
+      "node_id": 116,
+      "value": "1902-4-2"
+    },
+    {
+      "node_id": 117,
+      "value": "1962-8-6"
+    },
+    {
+      "node_id": 118,
+      "value": "1948-10-6"
+    },
+    {
+      "node_id": 119,
+      "value": "nodeID://b26190838"
+    },
+    {
+      "node_id": 120,
+      "value": "nodeID://b27103049"
+    },
+    {
+      "node_id": 121,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 122,
+      "value": "nodeID://b26343821"
+    },
+    {
+      "node_id": 123,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 124,
+      "value": "nodeID://b27318507"
+    },
+    {
+      "node_id": 125,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 126,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 127,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 128,
+      "value": "nodeID://b27087658"
+    },
+    {
+      "node_id": 129,
+      "value": "silver"
+    },
+    {
+      "node_id": 130,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 131,
+      "value": "Tschichold"
+    },
+    {
+      "node_id": 132,
+      "value": "Bierut"
+    },
+    {
+      "node_id": 133,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 134,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 135,
+      "value": "Sagmeister"
+    },
+    {
+      "node_id": 136,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 137,
+      "value": "Scher"
+    },
+    {
+      "node_id": 138,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 139,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 140,
+      "value": "Hoefler"
+    },
+    {
+      "node_id": 141,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 142,
+      "value": "German graphic designer"
+    },
+    {
+      "node_id": 143,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 144,
+      "value": "American graphic designer"
+    },
+    {
+      "node_id": 145,
+      "value": "Austrian artist"
+    },
+    {
+      "node_id": 146,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 147,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 148,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 149,
+      "value": "American typeface designer"
+    },
+    {
+      "node_id": 150,
+      "value": "American artist"
+    },
+    {
+      "node_id": 151,
+      "value": "Paula"
+    },
+    {
+      "node_id": 152,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 153,
+      "value": "Michael"
+    },
+    {
+      "node_id": 154,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 155,
+      "value": "Jonathan"
+    },
+    {
+      "node_id": 156,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 157,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 158,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 159,
+      "value": "Jan"
+    },
+    {
+      "node_id": 160,
+      "value": "Stefan"
+    },
+    {
+      "node_id": 161,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 162,
+      "value": "University_of_Applied_Arts_Vienna"
+    },
+    {
+      "node_id": 163,
+      "value": "Pratt_Institute"
+    },
+    {
+      "node_id": 164,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 165,
+      "value": "Tyler_School_of_Art"
+    },
+    {
+      "node_id": 166,
+      "value": "http://en.wikipedia.org/wiki/Paula_Scher"
+    },
+    {
+      "node_id": 167,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 168,
+      "value": "http://en.wikipedia.org/wiki/Jonathan_Hoefler"
+    },
+    {
+      "node_id": 169,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 170,
+      "value": "http://en.wikipedia.org/wiki/Jan_Tschichold"
+    },
+    {
+      "node_id": 171,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 172,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 173,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 174,
+      "value": "http://en.wikipedia.org/wiki/Michael_Bierut"
+    },
+    {
+      "node_id": 175,
+      "value": "http://en.wikipedia.org/wiki/Stefan_Sagmeister"
+    },
+    {
+      "node_id": 176,
+      "value": "http://www.sagmeisterwalsh.com/"
+    },
+    {
+      "node_id": 177,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 178,
+      "value": "Sagmeister in 2008"
+    },
+    {
+      "node_id": 179,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 180,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 181,
+      "value": "Paula Scher in \"Take a Closer Look\" speaker event at the GDMA Degree Show in 2010"
+    },
+    {
+      "node_id": 182,
+      "value": "Jonathan Hoefler"
+    },
+    {
+      "node_id": 183,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 184,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 185,
+      "value": "Stefan Sagmeister"
+    },
+    {
+      "node_id": 186,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 187,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 188,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 189,
+      "value": "Paula Scher"
+    },
+    {
+      "node_id": 190,
+      "value": "Jan Tschichold"
+    },
+    {
+      "node_id": 191,
+      "value": "Michael Bierut"
+    },
+    {
+      "node_id": 192,
+      "value": "AIGA Detroit poster"
+    },
+    {
+      "node_id": 193,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 194,
+      "value": "Set the Twilight Reeling poster"
+    },
+    {
+      "node_id": 195,
+      "value": "Things I Have Learned In My Life So Far"
+    },
+    {
+      "node_id": 196,
+      "value": "Austria"
+    },
+    {
+      "node_id": 197,
+      "value": "Leipzig"
+    },
+    {
+      "node_id": 198,
+      "value": "Cleveland"
+    },
+    {
+      "node_id": 199,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 200,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 201,
+      "value": "Washington D.C."
+    },
+    {
+      "node_id": 202,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 203,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 204,
+      "value": "Bregenz"
+    },
+    {
+      "node_id": 205,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 206,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 207,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 208,
+      "value": "female"
+    },
+    {
+      "node_id": 209,
+      "value": "male"
+    },
+    {
+      "node_id": 210,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 211,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 212,
+      "value": "743408031"
+    },
+    {
+      "node_id": 213,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 214,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 215,
+      "value": "736636537"
+    },
+    {
+      "node_id": 216,
+      "value": "737935127"
+    },
+    {
+      "node_id": 217,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 218,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 219,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 220,
+      "value": "740665130"
+    },
+    {
+      "node_id": 221,
+      "value": "745146996"
+    },
+    {
+      "node_id": 222,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 223,
+      "value": "Michael Bierut (born 1957) is a graphic designer, design critic and educator. Bierut was born in Cleveland, Ohio. He studied graphic design at the University of Cincinnati's College of Design, Architecture, Art and Planning. Bierut served as the national president of the American Institute of Graphic Arts (AIGA) from 1998 to 2001. Bierut is a senior critic in graphic design at the Yale School of Art. Bierut is also the co-editor of three Looking Closer graphic design anthologies. He is also a founding writer of the Design Observer blog with Rick Poynor, William Drenttel and Jessica Helfand."
+    },
+    {
+      "node_id": 224,
+      "value": "Jonathan Hoefler (born August 22, 1970) is an American typeface designer. Hoefler (pronounced \u201cHeffler\u201d) founded The Hoefler Type Foundry in 1989, a type foundry in New York. In 1999 Hoefler began working with type designer Tobias Frere-Jones, and from 2005\u20132014 the company operated under the name Hoefler & Frere-Jones until their public split. Hoefler's work is part of the Cooper-Hewitt, National Design Museum's permanent collection."
+    },
+    {
+      "node_id": 225,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 226,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 227,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 228,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 229,
+      "value": "Paula Scher (born October 6, 1948, Washington D.C) is an American graphic designer, painter and art educator in design, and the first female principal at Pentagram, which she joined in 1991."
+    },
+    {
+      "node_id": 230,
+      "value": "Jan Tschichold (2 April 1902 Leipzig, Germany \u2013 11 August 1974 Locarno, Switzerland) was a typographer, book designer, teacher and writer."
+    },
+    {
+      "node_id": 231,
+      "value": "Stefan Sagmeister (born August 6, 1962) is a New York-based graphic designer and typographer. Sagmeister co-founded a design firm called Sagmeister & Walsh Inc. with Jessica Walsh in New York City. He has designed album covers for Lou Reed, OK Go, The Rolling Stones, David Byrne, Jay Z, Aerosmith and Pat Metheny."
+    },
+    {
+      "node_id": 232,
+      "value": "1974-8-11"
+    },
+    {
+      "node_id": 233,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 234,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 235,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 236,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 237,
+      "value": "Typographer"
+    },
+    {
+      "node_id": 238,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 239,
+      "value": "Designer"
+    },
+    {
+      "node_id": 240,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 241,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 242,
+      "value": "http://www.sagmeisterwalsh.com/"
+    },
+    {
+      "node_id": 243,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 244,
+      "value": "http://art.yale.edu/MBierut"
+    },
+    {
+      "node_id": 245,
+      "value": "http://www.aiga.org/medalist-paulascher/"
+    },
+    {
+      "node_id": 246,
+      "value": "http://stendhalgallery.com/?page_id=367"
+    },
+    {
+      "node_id": 247,
+      "value": "http://www.adobe.com/type/browser/P/P_088.jhtml"
+    },
+    {
+      "node_id": 248,
+      "value": "http://www.helveticafilm.com/index.html"
+    },
+    {
+      "node_id": 249,
+      "value": "http://www.designobserver.com/"
+    },
+    {
+      "node_id": 250,
+      "value": "http://www.pentagram.com/partners/#/19/"
+    },
+    {
+      "node_id": 251,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 252,
+      "value": "http://www.idea-mag.com/en/publication/321.php"
+    },
+    {
+      "node_id": 253,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 254,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 255,
+      "value": "http://www.textism.com/textfaces/index.html?id=19"
+    },
+    {
+      "node_id": 256,
+      "value": "http://www.typography.com"
+    },
+    {
+      "node_id": 257,
+      "value": "http://www.adcglobal.org/archive/hof/1998/?id=317"
+    },
+    {
+      "node_id": 258,
+      "value": "http://www.ThingsIHaveLearnedInMyLife.com"
+    },
+    {
+      "node_id": 259,
+      "value": "http://www.ted.com/talks/stefan_sagmeister_7_rules_for_making_more_happiness.html"
+    },
+    {
+      "node_id": 260,
+      "value": "http://www.adcglobal.org/archive/hof/2003/?id=197"
+    },
+    {
+      "node_id": 261,
+      "value": "http://stendhalgallery.com/?page_id=174"
+    },
+    {
+      "node_id": 262,
+      "value": "http://www.sagmeister.com/"
+    },
+    {
+      "node_id": 263,
+      "value": "http://www.ted.com/index.php/talks/paula_scher_gets_serious.html"
+    },
+    {
+      "node_id": 264,
+      "value": "http://pentagram.com/en/partners/paula-scher.php"
+    },
+    {
+      "node_id": 265,
+      "value": "http://bartolomy.com/galleries/designers/"
+    },
+    {
+      "node_id": 266,
+      "value": "http://www.hillmancurtis.com/hc_web/film_video/source/scher.html"
+    },
+    {
+      "node_id": 267,
+      "value": "http://www.tschichold.de"
+    },
+    {
+      "node_id": 268,
+      "value": "http://www.aiga.org/content.cfm/medalist-michaelbierut"
+    },
+    {
+      "node_id": 269,
+      "value": "http://www.guardian.co.uk/artanddesign/2008/dec/05/jan-tschichold-typography"
+    },
+    {
+      "node_id": 270,
+      "value": "http://go.galegroup.com/ps/i.do?id=GALE%7CA207732576&v=2.1&u=cuny_statenisle&it=r&p=ITOF&sw=w"
+    },
+    {
+      "node_id": 271,
+      "value": "http://archives2.getty.edu:8082/xtf/view?docId=ead/930030/930030.xml;query=;brand=default"
+    },
+    {
+      "node_id": 272,
+      "value": "http://www.macromedia.com/go/getflashplayer"
+    },
+    {
+      "node_id": 273,
+      "value": "http://www.aiga.org/content.cfm/medalist-paulascher"
+    },
+    {
+      "node_id": 274,
+      "value": "http://stendhalgallery.com/?page_id=836"
+    },
+    {
+      "node_id": 275,
+      "value": "http://www.ted.com/speakers/paula_scher.html"
+    },
+    {
+      "node_id": 276,
+      "value": "http://www.designmuseum.org/design/stefan-sagmeister"
+    },
+    {
+      "node_id": 277,
+      "value": "American_Institute_of_Graphic_Arts"
+    },
+    {
+      "node_id": 278,
+      "value": "Ravensburg"
+    },
+    {
+      "node_id": 279,
+      "value": "The_Church_of_Jesus_Christ_of_Latter-Day_Saints"
+    },
+    {
+      "node_id": 280,
+      "value": "Bulletin_of_Atomic_Scientists"
+    },
+    {
+      "node_id": 281,
+      "value": "Macron"
+    },
+    {
+      "node_id": 282,
+      "value": "Cooper-Hewitt_National_Design_Museum"
+    },
+    {
+      "node_id": 283,
+      "value": "Basel"
+    },
+    {
+      "node_id": 284,
+      "value": "Category:American_graphic_designers"
+    },
+    {
+      "node_id": 285,
+      "value": "Calligraphy"
+    },
+    {
+      "node_id": 286,
+      "value": "Hyphen_Press"
+    },
+    {
+      "node_id": 287,
+      "value": "Pelican_Books"
+    },
+    {
+      "node_id": 288,
+      "value": "Esquire_(magazine)"
+    },
+    {
+      "node_id": 289,
+      "value": "Hoefler_Text"
+    },
+    {
+      "node_id": 290,
+      "value": "CBS_Sunday_Morning"
+    },
+    {
+      "node_id": 291,
+      "value": "Graphic_Design"
+    },
+    {
+      "node_id": 292,
+      "value": "George_C._Wolfe"
+    },
+    {
+      "node_id": 293,
+      "value": "Communism"
+    },
+    {
+      "node_id": 294,
+      "value": "File:Van_de_Graaf_canon_in_book_design.svg"
+    },
+    {
+      "node_id": 295,
+      "value": "The_Public_Theater"
+    },
+    {
+      "node_id": 296,
+      "value": "Painter_and_decorator"
+    },
+    {
+      "node_id": 297,
+      "value": "Category:Temple_University_Tyler_School_of_Art_alumni"
+    },
+    {
+      "node_id": 298,
+      "value": "Cooper-Hewitt"
+    },
+    {
+      "node_id": 299,
+      "value": "Colors_(magazine)"
+    },
+    {
+      "node_id": 300,
+      "value": "Map"
+    },
+    {
+      "node_id": 301,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 302,
+      "value": "File:TypoGestaltung.jpg"
+    },
+    {
+      "node_id": 303,
+      "value": "Austrians"
+    },
+    {
+      "node_id": 304,
+      "value": "Linotype_machine"
+    },
+    {
+      "node_id": 305,
+      "value": "Locarno"
+    },
+    {
+      "node_id": 306,
+      "value": "Category:People_from_Washington,_D.C."
+    },
+    {
+      "node_id": 307,
+      "value": "Category:Swiss_graphic_designers"
+    },
+    {
+      "node_id": 308,
+      "value": "ATypI"
+    },
+    {
+      "node_id": 309,
+      "value": "Popular_culture"
+    },
+    {
+      "node_id": 310,
+      "value": "Microsoft_Office_2010"
+    },
+    {
+      "node_id": 311,
+      "value": "Solomon_R._Guggenheim_Museum"
+    },
+    {
+      "node_id": 312,
+      "value": "Typography"
+    },
+    {
+      "node_id": 313,
+      "value": "Category:Design_educators"
+    },
+    {
+      "node_id": 314,
+      "value": "Cooper_Union"
+    },
+    {
+      "node_id": 315,
+      "value": "Penguin_Books"
+    },
+    {
+      "node_id": 316,
+      "value": "File:Medieval_manuscript_framework.svg"
+    },
+    {
+      "node_id": 317,
+      "value": "Hjalti_Karlsson"
+    },
+    {
+      "node_id": 318,
+      "value": "Bachelor_of_Arts"
+    },
+    {
+      "node_id": 319,
+      "value": "Museum_of_Design_Z\u00fcrich"
+    },
+    {
+      "node_id": 320,
+      "value": "Category:Book_designers"
+    },
+    {
+      "node_id": 321,
+      "value": "Category:1974_deaths"
+    },
+    {
+      "node_id": 322,
+      "value": "Washington,_DC"
+    },
+    {
+      "node_id": 323,
+      "value": "Fulbright_scholarship"
+    },
+    {
+      "node_id": 324,
+      "value": "Category:Living_people"
+    },
+    {
+      "node_id": 325,
+      "value": "San_Francisco_Museum_of_Modern_Art"
+    },
+    {
+      "node_id": 326,
+      "value": "Umlaut_(diacritic)"
+    },
+    {
+      "node_id": 327,
+      "value": "Requiem_Text"
+    },
+    {
+      "node_id": 328,
+      "value": "The_New_York_Times"
+    },
+    {
+      "node_id": 329,
+      "value": "Hamburg"
+    },
+    {
+      "node_id": 330,
+      "value": "Washburn_University"
+    },
+    {
+      "node_id": 331,
+      "value": "File:HoeflerText.png"
+    },
+    {
+      "node_id": 332,
+      "value": "Category:American_typographers"
+    },
+    {
+      "node_id": 333,
+      "value": "Time_Warner"
+    },
+    {
+      "node_id": 334,
+      "value": "Once_in_a_Lifetime_(Talking_Heads_album)"
+    },
+    {
+      "node_id": 335,
+      "value": "Cooper-Hewitt,_National_Design_Museum"
+    },
+    {
+      "node_id": 336,
+      "value": "Fr\u00e9d\u00e9ric_Sanchez"
+    },
+    {
+      "node_id": 337,
+      "value": "Princeton_Architectural_Press"
+    },
+    {
+      "node_id": 338,
+      "value": "Martin_Woodtli"
+    },
+    {
+      "node_id": 339,
+      "value": "Seymour_Chwast"
+    },
+    {
+      "node_id": 340,
+      "value": "Category:University_of_Applied_Arts_Vienna_alumni"
+    },
+    {
+      "node_id": 341,
+      "value": "Paul_Renner"
+    },
+    {
+      "node_id": 342,
+      "value": "Paperback"
+    },
+    {
+      "node_id": 343,
+      "value": "Harper's_Bazaar"
+    },
+    {
+      "node_id": 344,
+      "value": "File:OFFF_2009_Oeiras_(3689487617).jpg"
+    },
+    {
+      "node_id": 345,
+      "value": "Category:Articles_with_inconsistent_citation_formats"
+    },
+    {
+      "node_id": 346,
+      "value": "Graphic_designer"
+    },
+    {
+      "node_id": 347,
+      "value": "Sans-serif"
+    },
+    {
+      "node_id": 348,
+      "value": "Design_Observer"
+    },
+    {
+      "node_id": 349,
+      "value": "Everything_That_Happens_Will_Happen_Today"
+    },
+    {
+      "node_id": 350,
+      "value": "Weimar"
+    },
+    {
+      "node_id": 351,
+      "value": "Artisan"
+    },
+    {
+      "node_id": 352,
+      "value": "Category:People_from_Bregenz"
+    },
+    {
+      "node_id": 353,
+      "value": "Yale_School_of_Art"
+    },
+    {
+      "node_id": 354,
+      "value": "Vienna"
+    },
+    {
+      "node_id": 355,
+      "value": "Category:1948_births"
+    },
+    {
+      "node_id": 356,
+      "value": "Stuttgart"
+    },
+    {
+      "node_id": 357,
+      "value": "File:Michael_Bierut.jpg"
+    },
+    {
+      "node_id": 358,
+      "value": "New_York_City"
+    },
+    {
+      "node_id": 359,
+      "value": "Classicism"
+    },
+    {
+      "node_id": 360,
+      "value": "File:Sabon2.png"
+    },
+    {
+      "node_id": 361,
+      "value": "Category:1902_births"
+    },
+    {
+      "node_id": 362,
+      "value": "Pat_Metheny"
+    },
+    {
+      "node_id": 363,
+      "value": "Category:German_calligraphers"
+    },
+    {
+      "node_id": 364,
+      "value": "Amsterdam"
+    },
+    {
+      "node_id": 365,
+      "value": "Helvetica_(film)"
+    },
+    {
+      "node_id": 366,
+      "value": "Category:Austrian_graphic_designers"
+    },
+    {
+      "node_id": 367,
+      "value": "Lou_Reed"
+    },
+    {
+      "node_id": 368,
+      "value": "Leipzig"
+    },
+    {
+      "node_id": 369,
+      "value": "Berlin"
+    },
+    {
+      "node_id": 370,
+      "value": "Category:Design_writers"
+    },
+    {
+      "node_id": 371,
+      "value": "I.D._(magazine)"
+    },
+    {
+      "node_id": 372,
+      "value": "Julia_Hoffman"
+    },
+    {
+      "node_id": 373,
+      "value": "Jay_Z"
+    },
+    {
+      "node_id": 374,
+      "value": "OK_Go"
+    },
+    {
+      "node_id": 375,
+      "value": "Painting"
+    },
+    {
+      "node_id": 376,
+      "value": "Environmental_graphic_design"
+    },
+    {
+      "node_id": 377,
+      "value": "Tobias_Frere-Jones"
+    },
+    {
+      "node_id": 378,
+      "value": "Sony_Music"
+    },
+    {
+      "node_id": 379,
+      "value": "Karlssonwilker"
+    },
+    {
+      "node_id": 380,
+      "value": "HBO"
+    },
+    {
+      "node_id": 381,
+      "value": "Category:Austrian_expatriates_in_the_United_States"
+    },
+    {
+      "node_id": 382,
+      "value": "Doomsday_Clock"
+    },
+    {
+      "node_id": 383,
+      "value": "Akzidenz_Grotesk"
+    },
+    {
+      "node_id": 384,
+      "value": "Art_deco"
+    },
+    {
+      "node_id": 385,
+      "value": "University_of_Cincinnati_College_of_Design,_Architecture,_Art,_and_Planning"
+    },
+    {
+      "node_id": 386,
+      "value": "Weekend_Edition"
+    },
+    {
+      "node_id": 387,
+      "value": "Steven_Heller_(design_writer)"
+    },
+    {
+      "node_id": 388,
+      "value": "Tyler_School_of_Art"
+    },
+    {
+      "node_id": 389,
+      "value": "Bachelor_of_Fine_Arts"
+    },
+    {
+      "node_id": 390,
+      "value": "International_Typographic_Style"
+    },
+    {
+      "node_id": 391,
+      "value": "Category:Communication_design"
+    },
+    {
+      "node_id": 392,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 393,
+      "value": "Museum_of_Modern_Art"
+    },
+    {
+      "node_id": 394,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 395,
+      "value": "Modernist_typography"
+    },
+    {
+      "node_id": 396,
+      "value": "Museum_of_Applied_Arts,_Vienna"
+    },
+    {
+      "node_id": 397,
+      "value": "Typographer"
+    },
+    {
+      "node_id": 398,
+      "value": "Helvetica"
+    },
+    {
+      "node_id": 399,
+      "value": "School_of_Visual_Arts"
+    },
+    {
+      "node_id": 400,
+      "value": "Hitler"
+    },
+    {
+      "node_id": 401,
+      "value": "Fine_art"
+    },
+    {
+      "node_id": 402,
+      "value": "Category:Grammy_Award_winners"
+    },
+    {
+      "node_id": 403,
+      "value": "Al_Pacino"
+    },
+    {
+      "node_id": 404,
+      "value": "Germany"
+    },
+    {
+      "node_id": 405,
+      "value": "United_States"
+    },
+    {
+      "node_id": 406,
+      "value": "Austria"
+    },
+    {
+      "node_id": 407,
+      "value": "Thames_&_Hudson"
+    },
+    {
+      "node_id": 408,
+      "value": "The_Rolling_Stones"
+    },
+    {
+      "node_id": 409,
+      "value": "Modernist"
+    },
+    {
+      "node_id": 410,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 411,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 412,
+      "value": "Public_Theater"
+    },
+    {
+      "node_id": 413,
+      "value": "Hoefler_&_Frere-Jones"
+    },
+    {
+      "node_id": 414,
+      "value": "Bauhaus"
+    },
+    {
+      "node_id": 415,
+      "value": "Category:AIGA_medalists"
+    },
+    {
+      "node_id": 416,
+      "value": "Jessica_Helfand"
+    },
+    {
+      "node_id": 417,
+      "value": "Penrose_Annual"
+    },
+    {
+      "node_id": 418,
+      "value": "Sports_Illustrated"
+    },
+    {
+      "node_id": 419,
+      "value": "The_Metropolitan_Opera"
+    },
+    {
+      "node_id": 420,
+      "value": "New_Jersey_Performing_Arts_Center"
+    },
+    {
+      "node_id": 421,
+      "value": "Category:German_graphic_designers"
+    },
+    {
+      "node_id": 422,
+      "value": "New_York,_New_York"
+    },
+    {
+      "node_id": 423,
+      "value": "Bradbury_Thompson"
+    },
+    {
+      "node_id": 424,
+      "value": "Museum_f\u00fcr_Kunst_und_Gewerbe_Hamburg"
+    },
+    {
+      "node_id": 425,
+      "value": "List_of_AIGA_medalists"
+    },
+    {
+      "node_id": 426,
+      "value": "Penguin_Composition_Rules"
+    },
+    {
+      "node_id": 427,
+      "value": "Pentagram_(design_studio)"
+    },
+    {
+      "node_id": 428,
+      "value": "Windows_8"
+    },
+    {
+      "node_id": 429,
+      "value": "Category:Albums_with_cover_art_by_Stefan_Sagmeister"
+    },
+    {
+      "node_id": 430,
+      "value": "Business_Leaders_for_Sensible_Priorities"
+    },
+    {
+      "node_id": 431,
+      "value": "Jessica_Walsh"
+    },
+    {
+      "node_id": 432,
+      "value": "University_of_Applied_Arts_Vienna"
+    },
+    {
+      "node_id": 433,
+      "value": "Sabon"
+    },
+    {
+      "node_id": 434,
+      "value": "AIGA"
+    },
+    {
+      "node_id": 435,
+      "value": "Category:National_Design_Award_winners"
+    },
+    {
+      "node_id": 436,
+      "value": "Rick_Poynor"
+    },
+    {
+      "node_id": 437,
+      "value": "M&Co_(design_company)"
+    },
+    {
+      "node_id": 438,
+      "value": "Franklin_Gothic"
+    },
+    {
+      "node_id": 439,
+      "value": "MacOS"
+    },
+    {
+      "node_id": 440,
+      "value": "They_Might_Be_Giants"
+    },
+    {
+      "node_id": 441,
+      "value": "Cleveland"
+    },
+    {
+      "node_id": 442,
+      "value": "Oskar_Eustis"
+    },
+    {
+      "node_id": 443,
+      "value": "Brian_Eno"
+    },
+    {
+      "node_id": 444,
+      "value": "David_Byrne"
+    },
+    {
+      "node_id": 445,
+      "value": "Aerosmith"
+    },
+    {
+      "node_id": 446,
+      "value": "Ohio"
+    },
+    {
+      "node_id": 447,
+      "value": "Christopher_Burke_(design_writer)"
+    },
+    {
+      "node_id": 448,
+      "value": "Alphorn"
+    },
+    {
+      "node_id": 449,
+      "value": "Victorian_theater"
+    },
+    {
+      "node_id": 450,
+      "value": "Category:Fulbright_Scholars"
+    },
+    {
+      "node_id": 451,
+      "value": "Category:Album-cover_and_concert-poster_artists"
+    },
+    {
+      "node_id": 452,
+      "value": "Soviet_Union"
+    },
+    {
+      "node_id": 453,
+      "value": "Educator"
+    },
+    {
+      "node_id": 454,
+      "value": "Grammy_Award_for_Best_Boxed_or_Special_Limited_Edition_Package"
+    },
+    {
+      "node_id": 455,
+      "value": "Wordmark"
+    },
+    {
+      "node_id": 456,
+      "value": "The_Museum_of_Modern_Art"
+    },
+    {
+      "node_id": 457,
+      "value": "Monotype"
+    },
+    {
+      "node_id": 458,
+      "value": "Rolling_Stone_Magazine"
+    },
+    {
+      "node_id": 459,
+      "value": "Constructivism_(art)"
+    },
+    {
+      "node_id": 460,
+      "value": "Category:1957_births"
+    },
+    {
+      "node_id": 461,
+      "value": "Graphic_design"
+    },
+    {
+      "node_id": 462,
+      "value": "Set_the_Twilight_Reeling"
+    },
+    {
+      "node_id": 463,
+      "value": "Category:School_of_Visual_Arts_faculty"
+    },
+    {
+      "node_id": 464,
+      "value": "Fascist"
+    },
+    {
+      "node_id": 465,
+      "value": "File:Jonathan_Hoefler.jpg"
+    },
+    {
+      "node_id": 466,
+      "value": "Category:1962_births"
+    },
+    {
+      "node_id": 467,
+      "value": "Category:Logo_designers"
+    },
+    {
+      "node_id": 468,
+      "value": "Pratt_Institute"
+    },
+    {
+      "node_id": 469,
+      "value": "Apple_Computer"
+    },
+    {
+      "node_id": 470,
+      "value": "Library_of_Congress"
+    },
+    {
+      "node_id": 471,
+      "value": "Leo_Burnett"
+    },
+    {
+      "node_id": 472,
+      "value": "Jan_Wilker"
+    },
+    {
+      "node_id": 473,
+      "value": "National_Design_Awards"
+    },
+    {
+      "node_id": 474,
+      "value": "Bregenz"
+    },
+    {
+      "node_id": 475,
+      "value": "Pushpin"
+    },
+    {
+      "node_id": 476,
+      "value": "Grammy_Award"
+    },
+    {
+      "node_id": 477,
+      "value": "Category:American_women_illustrators"
+    },
+    {
+      "node_id": 478,
+      "value": "Category:People_from_Cleveland"
+    },
+    {
+      "node_id": 479,
+      "value": "Atlantic_Records"
+    },
+    {
+      "node_id": 480,
+      "value": "Grammy_Award_for_Best_Recording_Package"
+    },
+    {
+      "node_id": 481,
+      "value": "Time_Magazine"
+    },
+    {
+      "node_id": 482,
+      "value": "Alphorn_(magazine)"
+    },
+    {
+      "node_id": 483,
+      "value": "Capitol_Records"
+    },
+    {
+      "node_id": 484,
+      "value": "Film"
+    },
+    {
+      "node_id": 485,
+      "value": "Talking_Heads"
+    },
+    {
+      "node_id": 486,
+      "value": "QuickTime"
+    },
+    {
+      "node_id": 487,
+      "value": "Matthew_Carter"
+    },
+    {
+      "node_id": 488,
+      "value": "Category:1970_births"
+    },
+    {
+      "node_id": 489,
+      "value": "Archer_(typeface)"
+    },
+    {
+      "node_id": 490,
+      "value": "Category:Austrian_typographers"
+    },
+    {
+      "node_id": 491,
+      "value": "Ivan_Chermayeff"
+    },
+    {
+      "node_id": 492,
+      "value": "New_York_Shakespeare_Festival"
+    },
+    {
+      "node_id": 493,
+      "value": "Authoritarian"
+    },
+    {
+      "node_id": 494,
+      "value": "Type_foundry"
+    },
+    {
+      "node_id": 495,
+      "value": "University_of_Cincinnati"
+    },
+    {
+      "node_id": 496,
+      "value": "William_Drenttel"
+    },
+    {
+      "node_id": 497,
+      "value": "Category:German_typographers"
+    },
+    {
+      "node_id": 498,
+      "value": "Switzerland"
+    },
+    {
+      "node_id": 499,
+      "value": "File:Jan_Tschichold_(1963)_by_Erling_Mandelmann.jpg"
+    },
+    {
+      "node_id": 500,
+      "value": "Tibor_Kalman"
+    },
+    {
+      "node_id": 501,
+      "value": "Category:Poster_artists"
+    },
+    {
+      "node_id": 502,
+      "value": "Architecture"
+    },
+    {
+      "node_id": 503,
+      "value": "Ruari_McLean"
+    },
+    {
+      "node_id": 504,
+      "value": "Gestapo"
+    },
+    {
+      "node_id": 505,
+      "value": "The_New_York_Times_Magazine"
+    },
+    {
+      "node_id": 506,
+      "value": "Benetton_Group"
+    },
+    {
+      "node_id": 507,
+      "value": "Esquire_Magazine"
+    },
+    {
+      "node_id": 508,
+      "value": "Cooper_Union_School_of_Art"
+    },
+    {
+      "node_id": 509,
+      "value": "Canons_of_page_construction"
+    },
+    {
+      "node_id": 510,
+      "value": "Category:Penguin_Books_people"
+    },
+    {
+      "node_id": 511,
+      "value": "\u30dd\u30fc\u30e9\u30fb\u30b7\u30a7\u30a2\uff08Paula Scher\u30011948\u5e74 - \uff09\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u30c7\u30b6\u30a4\u30ca\u30fc\u3001\u7f8e\u8853\u5bb6\u3067\u3042\u308b\u3002\u30ef\u30b7\u30f3\u30c8\u30f3D.C.\u51fa\u8eab\u3002"
+    },
+    {
+      "node_id": 512,
+      "value": "Jonathan Hoefler (born August 22, 1970) is an American typeface designer. Hoefler (pronounced \u201cHeffler\u201d) founded The Hoefler Type Foundry in 1989, a type foundry in New York. In 1999 Hoefler began working with type designer Tobias Frere-Jones, and from 2005\u20132014 the company operated under the name Hoefler & Frere-Jones until their public split. Hoefler has designed original typefaces for Rolling Stone Magazine, Harper\u2019s Bazaar, The New York Times Magazine, Sports Illustrated, and Esquire and several institutional clients, including the Solomon R. Guggenheim Museum and alternative band They Might Be Giants. Perhaps his best-known work is the Hoefler Text family of typefaces, designed for Apple Computer and now appearing as part of the Macintosh operating system. He also designed the current wordmark of The Church of Jesus Christ of Latter-Day Saints. In 1995, Hoefler was named one of the forty most influential designers in America by I.D. magazine, and in 2002, the Association Typographique Internationale (ATypI) presented him with its most prestigious award, the Prix Charles Peignot for outstanding contributions to type design. Hoefler and Frere-Jones have been profiled in The New York Times, Time Magazine, and Esquire Magazine, and appearances on National Public Radio and CBS Sunday Morning. Hoefler's work is part of the Cooper-Hewitt, National Design Museum's permanent collection."
+    },
+    {
+      "node_id": 513,
+      "value": "Michael Bierut (born 1957) is a graphic designer, design critic and educator. Bierut was born in Cleveland, Ohio. He studied graphic design at the University of Cincinnati's College of Design, Architecture, Art and Planning. Bierut was vice president of graphic design at Vignelli Associates. Since 1990 he has been a partner in the New York office of Pentagram.According to his Pentagram online biography: Bierut \"is responsible for leading a team of graphic designers who create identity design, environmental graphic design and editorial design solutions. He has won hundreds of design awards and his work is represented in several permanent collections including: the Museum of Modern Art (MoMA) and the Cooper-Hewitt, National Design Museum in New York; the Library of Congress in Washington, DC; the San Francisco Museum of Modern Art (SFMOMA); the Denver Art Museum; the Museum f\u00fcr Kunst und Gewerbe Hamburg, Germany; and the Museum f\u00fcr Gestaltung in Z\u00fcrich, Switzerland.\" Bierut served as the national president of the American Institute of Graphic Arts (AIGA) from 1998 to 2001. Bierut is a senior critic in graphic design at the Yale School of Art. Bierut is also the co-editor of three Looking Closer graphic design anthologies. He is also a founding writer of the Design Observer blog with Rick Poynor, William Drenttel and Jessica Helfand. Bierut currently serves on the governing board of the Bulletin of Atomic Scientists; in January, 2007, he redesigned the Bulletin's Doomsday Clock to give it a more modern feel. Bierut is also known for his involvement in the film Helvetica."
+    },
+    {
+      "node_id": 514,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 515,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 516,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 517,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 518,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 519,
+      "value": "Paula Scher (born October 6, 1948, Washington D.C) is an American graphic designer, painter and art educator in design, and the first female principal at Pentagram, which she joined in 1991."
+    },
+    {
+      "node_id": 520,
+      "value": "Michael Bierut (1957) es un dise\u00f1ador gr\u00e1fico. Bierut naci\u00f3 en Cleveland, Ohio. Estudi\u00f3 dise\u00f1o gr\u00e1fico en la Universidad de Cincinnati. Bierut ha sido vicepresidente de dise\u00f1o gr\u00e1fico en Vignelli Asociattes. Desde 1990 ha sido socio en Nueva York de Pentagram. En su biograf\u00eda online se explica que \"ha ganado muchos premios y se exponen sus dise\u00f1os en algunas colecciones permanentes muy importantes como en es el caso del Museo de Arte Moderno (MoMA) y el Cooper-Hewitt, National Design Museum en Nueva York, la Biblioteca de Congreso en Washington, D.C.; el Museo de San Francisco de Arte Moderno (SFMOMA); el Denver Art Museum; el Museo f\u00fcr Kunst und Gewerbe Hamburgo, en Alemania; y el Museo f\u00fcr Gestaltung en Z\u00fcrich, Suiza.\"<ref>"
+    },
+    {
+      "node_id": 521,
+      "value": "Jan Tschichold (2 April 1902 Leipzig, Germany \u2013 11 August 1974 Locarno, Switzerland) was a typographer, book designer, teacher and writer."
+    },
+    {
+      "node_id": 522,
+      "value": "Stefan Sagmeister (born August 6, 1962) is a New York-based graphic designer and typographer. Sagmeister co-founded a design firm called Sagmeister & Walsh Inc. with Jessica Walsh in New York City. He has designed album covers for Lou Reed, OK Go, The Rolling Stones, David Byrne, Jay Z, Aerosmith and Pat Metheny."
+    },
+    {
+      "node_id": 523,
+      "value": "Paula Scher est une graphiste et peintre am\u00e9ricaine. Elle est la premi\u00e8re femme notable chez Pentagram, qu'elle a rejoint en 1991."
+    },
+    {
+      "node_id": 524,
+      "value": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+      "node_id": 525,
+      "value": "http://dbpedia.org/class/yago/WikicatPeopleFromLeipzig"
+    },
+    {
+      "node_id": 526,
+      "value": "Agent"
+    },
+    {
+      "node_id": 527,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 528,
+      "value": "http://schema.org/Person"
+    },
+    {
+      "node_id": 529,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 530,
+      "value": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+      "node_id": 531,
+      "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+      "node_id": 532,
+      "value": "http://dbpedia.org/class/yago/WikicatAustrianArtists"
+    },
+    {
+      "node_id": 533,
+      "value": "http://dbpedia.org/class/yago/Absentee109757653"
+    },
+    {
+      "node_id": 534,
+      "value": "http://dbpedia.org/class/yago/WikicatTypographers"
+    },
+    {
+      "node_id": 535,
+      "value": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+      "node_id": 536,
+      "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+      "node_id": 537,
+      "value": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+      "node_id": 538,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 539,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 540,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 541,
+      "value": "http://dbpedia.org/class/yago/WikicatGermanCalligraphers"
+    },
+    {
+      "node_id": 542,
+      "value": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+      "node_id": 543,
+      "value": "http://www.wikidata.org/entity/Q24229398"
+    },
+    {
+      "node_id": 544,
+      "value": "http://dbpedia.org/class/yago/WikicatGermanPrintmakers"
+    },
+    {
+      "node_id": 545,
+      "value": "http://dbpedia.org/class/yago/WikicatDesignEducators"
+    },
+    {
+      "node_id": 546,
+      "value": "http://dbpedia.org/class/yago/WikicatLogoDesigners"
+    },
+    {
+      "node_id": 547,
+      "value": "http://dbpedia.org/class/yago/InteriorDesigner110210648"
+    },
+    {
+      "node_id": 548,
+      "value": "http://dbpedia.org/class/yago/WikicatAustrianPeople"
+    },
+    {
+      "node_id": 549,
+      "value": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+      "node_id": 550,
+      "value": "http://dbpedia.org/class/yago/WikicatAustrianDesigners"
+    },
+    {
+      "node_id": 551,
+      "value": "http://dbpedia.org/class/yago/Printer110475297"
+    },
+    {
+      "node_id": 552,
+      "value": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+      "node_id": 553,
+      "value": "http://dbpedia.org/class/yago/WikicatGermanGraphicDesigners"
+    },
+    {
+      "node_id": 554,
+      "value": "http://dbpedia.org/class/yago/Exile110071332"
+    },
+    {
+      "node_id": 555,
+      "value": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+      "node_id": 556,
+      "value": "http://dbpedia.org/class/yago/Winner110782940"
+    },
+    {
+      "node_id": 557,
+      "value": "http://dbpedia.org/class/yago/WikicatFulbrightScholars"
+    },
+    {
+      "node_id": 558,
+      "value": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+      "node_id": 559,
+      "value": "http://dbpedia.org/class/yago/Medalist110305062"
+    },
+    {
+      "node_id": 560,
+      "value": "http://dbpedia.org/class/yago/WikicatPosterArtists"
+    },
+    {
+      "node_id": 561,
+      "value": "http://dbpedia.org/class/yago/Book106410904"
+    },
+    {
+      "node_id": 562,
+      "value": "http://dbpedia.org/class/yago/WikicatAustrianExpatriatesInTheUnitedStates"
+    },
+    {
+      "node_id": 563,
+      "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+      "node_id": 564,
+      "value": "http://dbpedia.org/class/yago/WikicatAmericanIllustrators"
+    },
+    {
+      "node_id": 565,
+      "value": "http://dbpedia.org/class/yago/Artifact100021939"
+    },
+    {
+      "node_id": 566,
+      "value": "http://dbpedia.org/class/yago/WikicatCalligraphers"
+    },
+    {
+      "node_id": 567,
+      "value": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+      "node_id": 568,
+      "value": "http://dbpedia.org/class/yago/Compositor109949946"
+    },
+    {
+      "node_id": 569,
+      "value": "http://dbpedia.org/class/yago/SkilledWorker110605985"
+    },
+    {
+      "node_id": 570,
+      "value": "http://dbpedia.org/class/yago/Worker109632518"
+    },
+    {
+      "node_id": 571,
+      "value": "http://dbpedia.org/class/yago/WikicatAustrianGraphicDesigners"
+    },
+    {
+      "node_id": 572,
+      "value": "http://dbpedia.org/class/yago/GraphicDesigner110144055"
+    },
+    {
+      "node_id": 573,
+      "value": "http://dbpedia.org/class/yago/WikicatDesignWriters"
+    },
+    {
+      "node_id": 574,
+      "value": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+      "node_id": 575,
+      "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"
+    },
+    {
+      "node_id": 576,
+      "value": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+      "node_id": 577,
+      "value": "http://dbpedia.org/class/yago/WikicatSwissGraphicDesigners"
+    },
+    {
+      "node_id": 578,
+      "value": "http://dbpedia.org/class/yago/WikicatDesignBooks"
+    },
+    {
+      "node_id": 579,
+      "value": "http://dbpedia.org/class/yago/Calligrapher109889170"
+    },
+    {
+      "node_id": 580,
+      "value": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+      "node_id": 581,
+      "value": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+      "node_id": 582,
+      "value": "http://dbpedia.org/class/yago/WikicatAmericanGraphicDesigners"
+    },
+    {
+      "node_id": 583,
+      "value": "Person"
+    },
+    {
+      "node_id": 584,
+      "value": "Thing"
+    },
+    {
+      "node_id": 585,
+      "value": "http://dbpedia.org/class/yago/WikicatAustrianTypographers"
+    },
+    {
+      "node_id": 586,
+      "value": "http://dbpedia.org/class/yago/Illustrator109812068"
+    },
+    {
+      "node_id": 587,
+      "value": "http://dbpedia.org/class/yago/Professional110480253"
+    },
+    {
+      "node_id": 588,
+      "value": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+      "node_id": 589,
+      "value": "http://dbpedia.org/class/yago/WikicatPeopleFromCleveland,Ohio"
+    },
+    {
+      "node_id": 590,
+      "value": "http://dbpedia.org/class/yago/WikicatPeopleFromBregenz"
+    },
+    {
+      "node_id": 591,
+      "value": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+      "node_id": 592,
+      "value": "http://dbpedia.org/class/yago/WikicatAIGAMedalists"
+    },
+    {
+      "node_id": 593,
+      "value": "http://dbpedia.org/class/yago/Educator110045713"
+    },
+    {
+      "node_id": 594,
+      "value": "http://dbpedia.org/class/yago/Work104599396"
+    },
+    {
+      "node_id": 595,
+      "value": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+      "node_id": 596,
+      "value": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+      "node_id": 597,
+      "value": "http://dbpedia.org/class/yago/Publication106589574"
+    },
+    {
+      "node_id": 598,
+      "value": "Artist"
+    },
+    {
+      "node_id": 599,
+      "value": "http://dbpedia.org/class/yago/WikicatGermanTypographers"
+    },
+    {
+      "node_id": 600,
+      "value": "http://dbpedia.org/class/yago/WikicatAmericanTypographers"
+    },
+    {
+      "node_id": 601,
+      "value": "http://dbpedia.org/class/yago/Specialist110631941"
+    },
+    {
+      "node_id": 602,
+      "value": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+      "node_id": 603,
+      "value": "http://dbpedia.org/class/yago/Creation103129123"
+    },
+    {
+      "node_id": 604,
+      "value": "http://dbpedia.org/class/yago/Printmaker110475687"
+    },
+    {
+      "node_id": 605,
+      "value": "http://dbpedia.org/class/yago/Product104007894"
+    },
+    {
+      "node_id": 606,
+      "value": "http://dbpedia.org/class/yago/Contestant109613191"
+    },
+    {
+      "node_id": 607,
+      "value": "http://dbpedia.org/class/yago/WikicatGraphicDesigners"
+    },
+    {
+      "node_id": 608,
+      "value": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+      "node_id": 609,
+      "value": "http://dbpedia.org/class/yago/WikicatBookDesigners"
+    },
+    {
+      "node_id": 610,
+      "value": "http://dbpedia.org/class/yago/WikicatGermanDesigners"
+    },
+    {
+      "node_id": 611,
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan_Tschichold_(1963)_by_Erling_Mandelmann.jpg?width=300"
+    },
+    {
+      "node_id": 612,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 613,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 614,
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Jonathan_Hoefler.jpg?width=300"
+    },
+    {
+      "node_id": 615,
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefan_Sagmeister_-_2008.jpg?width=300"
+    },
+    {
+      "node_id": 616,
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael_Bierut.jpg?width=300"
+    },
+    {
+      "node_id": 617,
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula_Scher.png?width=300"
+    },
+    {
+      "node_id": 618,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 619,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 620,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 621,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 622,
+      "value": "http://en.wikipedia.org/wiki/Jonathan_Hoefler?oldid=740665130"
+    },
+    {
+      "node_id": 623,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 624,
+      "value": "http://en.wikipedia.org/wiki/Stefan_Sagmeister?oldid=737935127"
+    },
+    {
+      "node_id": 625,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 626,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 627,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 628,
+      "value": "http://en.wikipedia.org/wiki/Jan_Tschichold?oldid=736636537"
+    },
+    {
+      "node_id": 629,
+      "value": "http://en.wikipedia.org/wiki/Paula_Scher?oldid=745146996"
+    },
+    {
+      "node_id": 630,
+      "value": "http://en.wikipedia.org/wiki/Michael_Bierut?oldid=743408031"
+    },
+    {
+      "node_id": 631,
+      "value": "Category:Communication_design"
+    },
+    {
+      "node_id": 632,
+      "value": "Category:University_of_Applied_Arts_Vienna_alumni"
+    },
+    {
+      "node_id": 633,
+      "value": "Jonathan_Hoefler"
+    },
+    {
+      "node_id": 634,
+      "value": "Stefan_Sagmeister"
+    },
+    {
+      "node_id": 635,
+      "value": "Category:1957_births"
+    },
+    {
+      "node_id": 636,
+      "value": "Category:American_graphic_designers"
+    },
+    {
+      "node_id": 637,
+      "value": "Category:Articles_with_inconsistent_citation_formats"
+    },
+    {
+      "node_id": 638,
+      "value": "Category:School_of_Visual_Arts_faculty"
+    },
+    {
+      "node_id": 639,
+      "value": "Category:Grammy_Award_winners"
+    },
+    {
+      "node_id": 640,
+      "value": "Category:1962_births"
+    },
+    {
+      "node_id": 641,
+      "value": "Category:Logo_designers"
+    },
+    {
+      "node_id": 642,
+      "value": "Category:People_from_Bregenz"
+    },
+    {
+      "node_id": 643,
+      "value": "Category:Temple_University_Tyler_School_of_Art_alumni"
+    },
+    {
+      "node_id": 644,
+      "value": "Category:1948_births"
+    },
+    {
+      "node_id": 645,
+      "value": "Michael_Bierut"
+    },
+    {
+      "node_id": 646,
+      "value": "Paula_Scher"
+    },
+    {
+      "node_id": 647,
+      "value": "Jan_Tschichold"
+    },
+    {
+      "node_id": 648,
+      "value": "Category:People_from_Washington,_D.C."
+    },
+    {
+      "node_id": 649,
+      "value": "Category:1902_births"
+    },
+    {
+      "node_id": 650,
+      "value": "Category:AIGA_medalists"
+    },
+    {
+      "node_id": 651,
+      "value": "Category:Swiss_graphic_designers"
+    },
+    {
+      "node_id": 652,
+      "value": "Category:German_calligraphers"
+    },
+    {
+      "node_id": 653,
+      "value": "Category:Austrian_graphic_designers"
+    },
+    {
+      "node_id": 654,
+      "value": "Category:American_women_illustrators"
+    },
+    {
+      "node_id": 655,
+      "value": "Category:People_from_Cleveland"
+    },
+    {
+      "node_id": 656,
+      "value": "Category:Design_writers"
+    },
+    {
+      "node_id": 657,
+      "value": "Category:German_graphic_designers"
+    },
+    {
+      "node_id": 658,
+      "value": "Category:Design_educators"
+    },
+    {
+      "node_id": 659,
+      "value": "Category:1970_births"
+    },
+    {
+      "node_id": 660,
+      "value": "Category:Book_designers"
+    },
+    {
+      "node_id": 661,
+      "value": "Category:Austrian_typographers"
+    },
+    {
+      "node_id": 662,
+      "value": "Category:National_Design_Award_winners"
+    },
+    {
+      "node_id": 663,
+      "value": "Category:1974_deaths"
+    },
+    {
+      "node_id": 664,
+      "value": "Category:Austrian_expatriates_in_the_United_States"
+    },
+    {
+      "node_id": 665,
+      "value": "Category:Poster_artists"
+    },
+    {
+      "node_id": 666,
+      "value": "Category:Living_people"
+    },
+    {
+      "node_id": 667,
+      "value": "Category:Fulbright_Scholars"
+    },
+    {
+      "node_id": 668,
+      "value": "Category:American_typographers"
+    },
+    {
+      "node_id": 669,
+      "value": "Category:Album-cover_and_concert-poster_artists"
+    },
+    {
+      "node_id": 670,
+      "value": "Category:German_typographers"
+    },
+    {
+      "node_id": 671,
+      "value": "Category:Penguin_Books_people"
+    }
+  ],
+  "edges": [
+    {
+      "source": 6,
+      "target": 8,
+      "label": "name"
+    },
+    {
+      "source": 1,
+      "target": 0,
+      "label": "name"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "label": "name"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "label": "name"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "label": "name"
+    },
+    {
+      "source": 6,
+      "target": 42,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 50,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 31,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 55,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 26,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 44,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 43,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 64,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 12,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 41,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 52,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 63,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 11,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 39,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 45,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 51,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 24,
+      "label": "sameAs"
+    },
+    {
+      "source": 1,
+      "target": 25,
+      "label": "sameAs"
+    },
+    {
+      "source": 1,
+      "target": 54,
+      "label": "sameAs"
+    },
+    {
+      "source": 1,
+      "target": 58,
+      "label": "sameAs"
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "label": "sameAs"
+    },
+    {
+      "source": 1,
+      "target": 49,
+      "label": "sameAs"
+    },
+    {
+      "source": 1,
+      "target": 21,
+      "label": "sameAs"
+    },
+    {
+      "source": 4,
+      "target": 29,
+      "label": "sameAs"
+    },
+    {
+      "source": 4,
+      "target": 47,
+      "label": "sameAs"
+    },
+    {
+      "source": 4,
+      "target": 34,
+      "label": "sameAs"
+    },
+    {
+      "source": 4,
+      "target": 56,
+      "label": "sameAs"
+    },
+    {
+      "source": 4,
+      "target": 59,
+      "label": "sameAs"
+    },
+    {
+      "source": 4,
+      "target": 22,
+      "label": "sameAs"
+    },
+    {
+      "source": 5,
+      "target": 40,
+      "label": "sameAs"
+    },
+    {
+      "source": 5,
+      "target": 20,
+      "label": "sameAs"
+    },
+    {
+      "source": 5,
+      "target": 60,
+      "label": "sameAs"
+    },
+    {
+      "source": 5,
+      "target": 61,
+      "label": "sameAs"
+    },
+    {
+      "source": 5,
+      "target": 57,
+      "label": "sameAs"
+    },
+    {
+      "source": 5,
+      "target": 28,
+      "label": "sameAs"
+    },
+    {
+      "source": 5,
+      "target": 23,
+      "label": "sameAs"
+    },
+    {
+      "source": 2,
+      "target": 38,
+      "label": "sameAs"
+    },
+    {
+      "source": 2,
+      "target": 48,
+      "label": "sameAs"
+    },
+    {
+      "source": 2,
+      "target": 37,
+      "label": "sameAs"
+    },
+    {
+      "source": 2,
+      "target": 30,
+      "label": "sameAs"
+    },
+    {
+      "source": 2,
+      "target": 14,
+      "label": "sameAs"
+    },
+    {
+      "source": 2,
+      "target": 27,
+      "label": "sameAs"
+    },
+    {
+      "source": 2,
+      "target": 62,
+      "label": "sameAs"
+    },
+    {
+      "source": 2,
+      "target": 53,
+      "label": "sameAs"
+    },
+    {
+      "source": 2,
+      "target": 46,
+      "label": "sameAs"
+    },
+    {
+      "source": 2,
+      "target": 19,
+      "label": "sameAs"
+    },
+    {
+      "source": 2,
+      "target": 18,
+      "label": "sameAs"
+    },
+    {
+      "source": 2,
+      "target": 17,
+      "label": "sameAs"
+    },
+    {
+      "source": 2,
+      "target": 32,
+      "label": "sameAs"
+    },
+    {
+      "source": 6,
+      "target": 65,
+      "label": "deathPlace"
+    },
+    {
+      "source": 5,
+      "target": 67,
+      "label": "field"
+    },
+    {
+      "source": 5,
+      "target": 69,
+      "label": "field"
+    },
+    {
+      "source": 5,
+      "target": 72,
+      "label": "field"
+    },
+    {
+      "source": 2,
+      "target": 72,
+      "label": "field"
+    },
+    {
+      "source": 2,
+      "target": 70,
+      "label": "field"
+    },
+    {
+      "source": 5,
+      "target": 76,
+      "label": "nationality"
+    },
+    {
+      "source": 2,
+      "target": 73,
+      "label": "nationality"
+    },
+    {
+      "source": 6,
+      "target": 79,
+      "label": "wikiPageID"
+    },
+    {
+      "source": 1,
+      "target": 77,
+      "label": "wikiPageID"
+    },
+    {
+      "source": 4,
+      "target": 81,
+      "label": "wikiPageID"
+    },
+    {
+      "source": 5,
+      "target": 86,
+      "label": "wikiPageID"
+    },
+    {
+      "source": 2,
+      "target": 85,
+      "label": "wikiPageID"
+    },
+    {
+      "source": 6,
+      "target": 96,
+      "label": "rankValue"
+    },
+    {
+      "source": 1,
+      "target": 88,
+      "label": "rankValue"
+    },
+    {
+      "source": 4,
+      "target": 92,
+      "label": "rankValue"
+    },
+    {
+      "source": 5,
+      "target": 90,
+      "label": "rankValue"
+    },
+    {
+      "source": 2,
+      "target": 87,
+      "label": "rankValue"
+    },
+    {
+      "source": 6,
+      "target": 97,
+      "label": "depiction"
+    },
+    {
+      "source": 1,
+      "target": 106,
+      "label": "depiction"
+    },
+    {
+      "source": 4,
+      "target": 102,
+      "label": "depiction"
+    },
+    {
+      "source": 5,
+      "target": 105,
+      "label": "depiction"
+    },
+    {
+      "source": 2,
+      "target": 98,
+      "label": "depiction"
+    },
+    {
+      "source": 6,
+      "target": 116,
+      "label": "birthDate"
+    },
+    {
+      "source": 1,
+      "target": 115,
+      "label": "birthDate"
+    },
+    {
+      "source": 4,
+      "target": 107,
+      "label": "birthDate"
+    },
+    {
+      "source": 5,
+      "target": 118,
+      "label": "birthDate"
+    },
+    {
+      "source": 5,
+      "target": 113,
+      "label": "birthDate"
+    },
+    {
+      "source": 2,
+      "target": 117,
+      "label": "birthDate"
+    },
+    {
+      "source": 2,
+      "target": 114,
+      "label": "birthDate"
+    },
+    {
+      "source": 6,
+      "target": 124,
+      "label": "hasRank"
+    },
+    {
+      "source": 1,
+      "target": 120,
+      "label": "hasRank"
+    },
+    {
+      "source": 4,
+      "target": 119,
+      "label": "hasRank"
+    },
+    {
+      "source": 5,
+      "target": 122,
+      "label": "hasRank"
+    },
+    {
+      "source": 2,
+      "target": 128,
+      "label": "hasRank"
+    },
+    {
+      "source": 5,
+      "target": 129,
+      "label": "bgcolour"
+    },
+    {
+      "source": 6,
+      "target": 131,
+      "label": "surname"
+    },
+    {
+      "source": 1,
+      "target": 140,
+      "label": "surname"
+    },
+    {
+      "source": 4,
+      "target": 132,
+      "label": "surname"
+    },
+    {
+      "source": 5,
+      "target": 137,
+      "label": "surname"
+    },
+    {
+      "source": 2,
+      "target": 135,
+      "label": "surname"
+    },
+    {
+      "source": 6,
+      "target": 142,
+      "label": "description"
+    },
+    {
+      "source": 1,
+      "target": 149,
+      "label": "description"
+    },
+    {
+      "source": 4,
+      "target": 150,
+      "label": "description"
+    },
+    {
+      "source": 5,
+      "target": 144,
+      "label": "description"
+    },
+    {
+      "source": 2,
+      "target": 145,
+      "label": "description"
+    },
+    {
+      "source": 6,
+      "target": 159,
+      "label": "givenName"
+    },
+    {
+      "source": 1,
+      "target": 155,
+      "label": "givenName"
+    },
+    {
+      "source": 4,
+      "target": 153,
+      "label": "givenName"
+    },
+    {
+      "source": 5,
+      "target": 151,
+      "label": "givenName"
+    },
+    {
+      "source": 2,
+      "target": 160,
+      "label": "givenName"
+    },
+    {
+      "source": 5,
+      "target": 165,
+      "label": "training"
+    },
+    {
+      "source": 2,
+      "target": 162,
+      "label": "training"
+    },
+    {
+      "source": 2,
+      "target": 163,
+      "label": "training"
+    },
+    {
+      "source": 6,
+      "target": 170,
+      "label": "isPrimaryTopicOf"
+    },
+    {
+      "source": 1,
+      "target": 168,
+      "label": "isPrimaryTopicOf"
+    },
+    {
+      "source": 4,
+      "target": 174,
+      "label": "isPrimaryTopicOf"
+    },
+    {
+      "source": 5,
+      "target": 166,
+      "label": "isPrimaryTopicOf"
+    },
+    {
+      "source": 2,
+      "target": 175,
+      "label": "isPrimaryTopicOf"
+    },
+    {
+      "source": 2,
+      "target": 176,
+      "label": "homepage"
+    },
+    {
+      "source": 5,
+      "target": 181,
+      "label": "caption"
+    },
+    {
+      "source": 2,
+      "target": 178,
+      "label": "caption"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "label": "label"
+    },
+    {
+      "source": 1,
+      "target": 0,
+      "label": "label"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "label": "label"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "label": "label"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "label": "label"
+    },
+    {
+      "source": 2,
+      "target": 195,
+      "label": "works"
+    },
+    {
+      "source": 2,
+      "target": 192,
+      "label": "works"
+    },
+    {
+      "source": 2,
+      "target": 194,
+      "label": "works"
+    },
+    {
+      "source": 6,
+      "target": 197,
+      "label": "birthPlace"
+    },
+    {
+      "source": 4,
+      "target": 198,
+      "label": "birthPlace"
+    },
+    {
+      "source": 5,
+      "target": 201,
+      "label": "birthPlace"
+    },
+    {
+      "source": 2,
+      "target": 204,
+      "label": "birthPlace"
+    },
+    {
+      "source": 2,
+      "target": 196,
+      "label": "birthPlace"
+    },
+    {
+      "source": 6,
+      "target": 209,
+      "label": "gender"
+    },
+    {
+      "source": 1,
+      "target": 209,
+      "label": "gender"
+    },
+    {
+      "source": 4,
+      "target": 209,
+      "label": "gender"
+    },
+    {
+      "source": 5,
+      "target": 208,
+      "label": "gender"
+    },
+    {
+      "source": 2,
+      "target": 209,
+      "label": "gender"
+    },
+    {
+      "source": 6,
+      "target": 215,
+      "label": "wikiPageRevisionID"
+    },
+    {
+      "source": 1,
+      "target": 220,
+      "label": "wikiPageRevisionID"
+    },
+    {
+      "source": 4,
+      "target": 212,
+      "label": "wikiPageRevisionID"
+    },
+    {
+      "source": 5,
+      "target": 221,
+      "label": "wikiPageRevisionID"
+    },
+    {
+      "source": 2,
+      "target": 216,
+      "label": "wikiPageRevisionID"
+    },
+    {
+      "source": 6,
+      "target": 230,
+      "label": "comment"
+    },
+    {
+      "source": 1,
+      "target": 224,
+      "label": "comment"
+    },
+    {
+      "source": 4,
+      "target": 223,
+      "label": "comment"
+    },
+    {
+      "source": 5,
+      "target": 229,
+      "label": "comment"
+    },
+    {
+      "source": 2,
+      "target": 231,
+      "label": "comment"
+    },
+    {
+      "source": 6,
+      "target": 232,
+      "label": "deathDate"
+    },
+    {
+      "source": 6,
+      "target": 237,
+      "label": "hypernym"
+    },
+    {
+      "source": 1,
+      "target": 239,
+      "label": "hypernym"
+    },
+    {
+      "source": 4,
+      "target": 239,
+      "label": "hypernym"
+    },
+    {
+      "source": 5,
+      "target": 239,
+      "label": "hypernym"
+    },
+    {
+      "source": 2,
+      "target": 239,
+      "label": "hypernym"
+    },
+    {
+      "source": 6,
+      "target": 272,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 6,
+      "target": 271,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 6,
+      "target": 255,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 6,
+      "target": 269,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 6,
+      "target": 267,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 6,
+      "target": 247,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 6,
+      "target": 252,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 1,
+      "target": 256,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 4,
+      "target": 244,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 4,
+      "target": 260,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 4,
+      "target": 249,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 4,
+      "target": 268,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 5,
+      "target": 257,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 5,
+      "target": 245,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 5,
+      "target": 273,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 5,
+      "target": 270,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 5,
+      "target": 250,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 5,
+      "target": 248,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 5,
+      "target": 266,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 5,
+      "target": 264,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 5,
+      "target": 263,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 5,
+      "target": 274,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 5,
+      "target": 261,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 5,
+      "target": 246,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 5,
+      "target": 275,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 2,
+      "target": 258,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 2,
+      "target": 259,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 2,
+      "target": 262,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 2,
+      "target": 265,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 2,
+      "target": 276,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 2,
+      "target": 176,
+      "label": "wikiPageExternalLink"
+    },
+    {
+      "source": 6,
+      "target": 321,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 414,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 497,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 509,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 457,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 326,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 283,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 304,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 363,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 293,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 504,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 404,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 391,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 350,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 502,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 464,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 347,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 286,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 65,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 452,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 312,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 361,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 351,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 498,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 342,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 421,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 417,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 307,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 316,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 359,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 400,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 415,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 433,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 503,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 499,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 390,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 356,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 425,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 423,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 294,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 285,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 447,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 296,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 369,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 407,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 315,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 409,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 510,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 287,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 320,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 302,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 309,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 281,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 426,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 197,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 364,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 493,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 360,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 401,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 278,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 341,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 395,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 330,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 329,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 288,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 327,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 465,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 290,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 308,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 331,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 328,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 284,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 507,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 440,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 418,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 279,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 311,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 343,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 335,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 481,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 458,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 469,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 494,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 413,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 289,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 439,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 505,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 488,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 324,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 489,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 455,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 386,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 377,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 332,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 1,
+      "target": 371,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 365,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 425,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 415,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 382,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 370,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 280,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 446,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 416,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 478,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 324,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 495,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 337,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 393,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 298,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 500,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 434,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 473,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 470,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 424,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 277,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 284,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 427,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 385,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 319,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 461,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 436,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 467,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 198,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 353,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 496,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 313,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 322,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 357,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 348,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 325,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 376,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 4,
+      "target": 460,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 69,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 486,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 427,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 72,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 475,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 491,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 438,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 456,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 459,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 422,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 324,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 442,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 403,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 413,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 428,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 399,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 383,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 487,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 76,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 372,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 449,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 415,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 378,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 310,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 477,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 297,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 292,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 412,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 419,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 355,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 339,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 479,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 318,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 337,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 313,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 284,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 398,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 365,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 165,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 463,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 420,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 314,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 384,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 300,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 67,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 306,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 295,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 492,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 387,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 5,
+      "target": 389,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 434,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 366,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 380,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 317,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 429,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 396,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 490,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 402,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 345,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 501,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 482,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 454,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 344,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 430,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 445,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 352,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 338,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 473,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 443,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 336,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 333,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 358,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 431,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 399,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 508,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 72,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 334,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 471,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 282,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 462,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 323,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 373,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 162,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 480,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 451,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 349,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 435,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 437,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 500,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 196,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 237,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 204,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 476,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 73,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 466,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 506,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 367,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 362,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 324,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 163,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 444,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 379,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 483,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 346,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 374,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 340,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 472,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 70,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 354,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 311,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 450,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 299,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 408,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 448,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 381,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 2,
+      "target": 485,
+      "label": "wikiPageWikiLink"
+    },
+    {
+      "source": 6,
+      "target": 230,
+      "label": "abstract"
+    },
+    {
+      "source": 1,
+      "target": 512,
+      "label": "abstract"
+    },
+    {
+      "source": 4,
+      "target": 513,
+      "label": "abstract"
+    },
+    {
+      "source": 4,
+      "target": 520,
+      "label": "abstract"
+    },
+    {
+      "source": 5,
+      "target": 229,
+      "label": "abstract"
+    },
+    {
+      "source": 5,
+      "target": 511,
+      "label": "abstract"
+    },
+    {
+      "source": 5,
+      "target": 523,
+      "label": "abstract"
+    },
+    {
+      "source": 2,
+      "target": 231,
+      "label": "abstract"
+    },
+    {
+      "source": 6,
+      "target": 610,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 552,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 599,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 544,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 555,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 591,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 553,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 551,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 604,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 558,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 536,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 592,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 578,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 524,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 601,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 534,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 559,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 608,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 535,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 603,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 566,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 606,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 541,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 561,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 525,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 609,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 569,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 597,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 596,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 579,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 577,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 531,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 556,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 547,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 565,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 605,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 588,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 581,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 607,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 594,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 572,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 570,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 583,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 584,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 568,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 607,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 558,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 536,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 551,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 588,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 582,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 595,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 552,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 600,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 524,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 555,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 596,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 583,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 608,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 570,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 601,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 581,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 584,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 569,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 572,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 568,
+      "label": "type"
+    },
+    {
+      "source": 1,
+      "target": 531,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 589,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 545,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 547,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 606,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 596,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 608,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 559,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 592,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 556,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 587,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 572,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 558,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 536,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 581,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 552,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 582,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 593,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 524,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 549,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 588,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 583,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 573,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 601,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 546,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 567,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 542,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 531,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 595,
+      "label": "type"
+    },
+    {
+      "source": 4,
+      "target": 555,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 584,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 598,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 583,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 575,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 524,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 586,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 545,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 608,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 592,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 596,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 535,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 601,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 564,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 582,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 531,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 559,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 595,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 552,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 526,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 580,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 542,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 543,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 591,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 555,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 593,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 530,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 606,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 587,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 528,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 581,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 602,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 583,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 572,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 588,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 558,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 536,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 556,
+      "label": "type"
+    },
+    {
+      "source": 5,
+      "target": 563,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 532,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 581,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 557,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 535,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 528,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 526,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 524,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 572,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 608,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 551,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 580,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 552,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 543,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 598,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 547,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 534,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 583,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 596,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 537,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 530,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 585,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 583,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 550,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 568,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 602,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 591,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 562,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 588,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 601,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 590,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 554,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 560,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 584,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 570,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 574,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 607,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 569,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 555,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 548,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 571,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 595,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 576,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 563,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 575,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 531,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 558,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 536,
+      "label": "type"
+    },
+    {
+      "source": 2,
+      "target": 533,
+      "label": "type"
+    },
+    {
+      "source": 6,
+      "target": 611,
+      "label": "thumbnail"
+    },
+    {
+      "source": 1,
+      "target": 614,
+      "label": "thumbnail"
+    },
+    {
+      "source": 4,
+      "target": 616,
+      "label": "thumbnail"
+    },
+    {
+      "source": 5,
+      "target": 617,
+      "label": "thumbnail"
+    },
+    {
+      "source": 2,
+      "target": 615,
+      "label": "thumbnail"
+    },
+    {
+      "source": 6,
+      "target": 628,
+      "label": "wasDerivedFrom"
+    },
+    {
+      "source": 1,
+      "target": 622,
+      "label": "wasDerivedFrom"
+    },
+    {
+      "source": 4,
+      "target": 630,
+      "label": "wasDerivedFrom"
+    },
+    {
+      "source": 5,
+      "target": 629,
+      "label": "wasDerivedFrom"
+    },
+    {
+      "source": 2,
+      "target": 624,
+      "label": "wasDerivedFrom"
+    },
+    {
+      "source": 6,
+      "target": 321,
+      "label": "subject"
+    },
+    {
+      "source": 6,
+      "target": 497,
+      "label": "subject"
+    },
+    {
+      "source": 6,
+      "target": 363,
+      "label": "subject"
+    },
+    {
+      "source": 6,
+      "target": 391,
+      "label": "subject"
+    },
+    {
+      "source": 6,
+      "target": 361,
+      "label": "subject"
+    },
+    {
+      "source": 6,
+      "target": 421,
+      "label": "subject"
+    },
+    {
+      "source": 6,
+      "target": 415,
+      "label": "subject"
+    },
+    {
+      "source": 6,
+      "target": 307,
+      "label": "subject"
+    },
+    {
+      "source": 6,
+      "target": 320,
+      "label": "subject"
+    },
+    {
+      "source": 6,
+      "target": 510,
+      "label": "subject"
+    },
+    {
+      "source": 1,
+      "target": 284,
+      "label": "subject"
+    },
+    {
+      "source": 1,
+      "target": 488,
+      "label": "subject"
+    },
+    {
+      "source": 1,
+      "target": 332,
+      "label": "subject"
+    },
+    {
+      "source": 1,
+      "target": 324,
+      "label": "subject"
+    },
+    {
+      "source": 4,
+      "target": 415,
+      "label": "subject"
+    },
+    {
+      "source": 4,
+      "target": 370,
+      "label": "subject"
+    },
+    {
+      "source": 4,
+      "target": 478,
+      "label": "subject"
+    },
+    {
+      "source": 4,
+      "target": 324,
+      "label": "subject"
+    },
+    {
+      "source": 4,
+      "target": 284,
+      "label": "subject"
+    },
+    {
+      "source": 4,
+      "target": 467,
+      "label": "subject"
+    },
+    {
+      "source": 4,
+      "target": 313,
+      "label": "subject"
+    },
+    {
+      "source": 4,
+      "target": 460,
+      "label": "subject"
+    },
+    {
+      "source": 5,
+      "target": 324,
+      "label": "subject"
+    },
+    {
+      "source": 5,
+      "target": 297,
+      "label": "subject"
+    },
+    {
+      "source": 5,
+      "target": 415,
+      "label": "subject"
+    },
+    {
+      "source": 5,
+      "target": 477,
+      "label": "subject"
+    },
+    {
+      "source": 5,
+      "target": 313,
+      "label": "subject"
+    },
+    {
+      "source": 5,
+      "target": 355,
+      "label": "subject"
+    },
+    {
+      "source": 5,
+      "target": 284,
+      "label": "subject"
+    },
+    {
+      "source": 5,
+      "target": 306,
+      "label": "subject"
+    },
+    {
+      "source": 5,
+      "target": 463,
+      "label": "subject"
+    },
+    {
+      "source": 2,
+      "target": 366,
+      "label": "subject"
+    },
+    {
+      "source": 2,
+      "target": 490,
+      "label": "subject"
+    },
+    {
+      "source": 2,
+      "target": 345,
+      "label": "subject"
+    },
+    {
+      "source": 2,
+      "target": 402,
+      "label": "subject"
+    },
+    {
+      "source": 2,
+      "target": 501,
+      "label": "subject"
+    },
+    {
+      "source": 2,
+      "target": 352,
+      "label": "subject"
+    },
+    {
+      "source": 2,
+      "target": 451,
+      "label": "subject"
+    },
+    {
+      "source": 2,
+      "target": 435,
+      "label": "subject"
+    },
+    {
+      "source": 2,
+      "target": 324,
+      "label": "subject"
+    },
+    {
+      "source": 2,
+      "target": 466,
+      "label": "subject"
+    },
+    {
+      "source": 2,
+      "target": 340,
+      "label": "subject"
+    },
+    {
+      "source": 2,
+      "target": 450,
+      "label": "subject"
+    },
+    {
+      "source": 2,
+      "target": 381,
+      "label": "subject"
+    }
+  ]
+}
