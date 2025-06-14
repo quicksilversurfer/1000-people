@@ -6,20 +6,26 @@ html { font-family: 'Inter', sans-serif; }
 }
 
 * {
-  margin:0;
+  margin: 0;
 }
 html {
-  padding: .8rem;
+  padding: 0.8rem;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 /* intro styles */
 #intro {
   font-family: Inter;
   max-width: 320px;
-  position: absolute;
   border: 1px solid #636363;
   color: #636363;
   padding: 0.8rem;
+  margin-bottom: 1rem;
 }
 h1 {
   font-weight: 500;
@@ -92,4 +98,28 @@ div.tooltip p {
 }
 .node.subject text {
   visibility: visible;
+}
+
+/* spinner styles */
+#loading.spinner {
+  border: 8px solid #f3f3f3;
+  border-top: 8px solid #636363;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  animation: spin 1s linear infinite;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 999;
+}
+
+.hidden {
+  display: none;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
 }

@@ -22,6 +22,12 @@ var tooltip = d3.select("body")
 // load the data  
 d3.json("data/data.json").then(data => {
 
+  // Hide loading spinner once data is ready
+  const spinner = document.getElementById('loading');
+  if (spinner) {
+    spinner.classList.add('hidden');
+  }
+
   const nodes = data.nodes;
   const edges = data.edges;
 
