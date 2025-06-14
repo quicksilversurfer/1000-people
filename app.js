@@ -22,23 +22,15 @@ var tooltip = d3.select("body")
 // load the data  
 d3.json("data/data.json").then(data => {
 
-  var nodes = data.nodes;
-  var testLinks = data.edges;
+  const nodes = data.nodes;
+  const edges = data.edges;
 
-  // find origin nodes
-  const linkedByIndex = {};
-  data.edges.forEach(d => {
-    linkedByIndex[`${d.source},${d.target}`] = 1;
-  });
-
-  // find unique subjects
-  const subjects = Object.keys(linkedByIndex);
-  const subjectUnique = [];
-  subjects.forEach( s => {
-    let val = s.split(",")[0];
-    if(subjectUnique.indexOf(val) === -1) {
-      subjectUnique.push(parseInt(val));
-    }
+  // Precompute edge lookups and subjects for faster checks
+  const linkedByIndex = new Set();
+  const subjectSet = new Set();
+  edges.forEach(d => {
+    linkedByIndex.add(`${d.source},${d.target}`);
+    subjectSet.add(d.source);
   });
 
 
@@ -69,25 +61,13 @@ d3.json("data/data.json").then(data => {
   // Initialize the nodes
   var node = svg
     .selectAll("g")
-    .data(data.nodes)
+    .data(nodes)
     .enter().append("g")
-    .attr("class", d => {
-      let className;
-      if(Object.values(subjectUnique).includes(d.node_id)) {
-        className = "node subject";
-      } else { className = "node"; }
-      return className;
-    });
+    .attr("class", d => (subjectSet.has(d.node_id) ? "node subject" : "node"));
 
   //append circles to nodes
-  node.append("circle")
-    .attr("r", d => {
-      var radius;
-      if(Object.values(subjectUnique).includes(d.node_id)) {
-        radius = 10;
-      } else { radius = 5; }
-      return radius;
-    })
+  const circles = node.append("circle")
+    .attr("r", d => (subjectSet.has(d.node_id) ? 10 : 5))
     // .on("mouseover.tooltip", function(d) {
     //   tooltip.transition()
     //     .duration(300)
@@ -108,10 +88,10 @@ d3.json("data/data.json").then(data => {
 
 
   // Let's list the force we wanna apply on the network
-  var simulation = d3.forceSimulation(data.nodes)                 // Force algorithm is applied to data.nodes
+  var simulation = d3.forceSimulation(nodes)                 // Force algorithm is applied to data.nodes
       .force("link", d3.forceLink()                               // This force provides links between nodes
             .id( d => d.node_id )                     // This provide  the id of a node
-            .links(data.edges)                                    // and this the list of links
+            .links(edges)                                    // and this the list of links
       )
       .force("charge", d3.forceManyBody().strength(-100))         // This adds repulsion between nodes. Play with the -400 for the repulsion strength
       .force("center", d3.forceCenter(width / 2, height / 2))     // This force attracts nodes to the center of the svg area
@@ -132,18 +112,15 @@ d3.json("data/data.json").then(data => {
   }
 
   function isConnected(a, b) {
-    return linkedByIndex[`${a.index},${b.index}`] || linkedByIndex[`${b.index},${a.index}`] || a.index === b.index;
+    return linkedByIndex.has(`${a.index},${b.index}`) ||
+           linkedByIndex.has(`${b.index},${a.index}`) ||
+           a.index === b.index;
   }
 
   function fade(opacity) {
     return d => {
-      node.style('stroke-opacity', function (o) {
-        const thisOpacity = isConnected(d, o) ? 1 : opacity;
-        this.setAttribute('fill-opacity', thisOpacity);
-        return thisOpacity;
-      });
-  
-      link.style('stroke-opacity', o => (o.source === d || o.target === d ? 1 : opacity));
+      circles.attr('fill-opacity', o => (isConnected(d, o) ? 1 : opacity));
+      link.attr('stroke-opacity', o => (o.source === d || o.target === d ? 1 : opacity));
   
     };
   }
